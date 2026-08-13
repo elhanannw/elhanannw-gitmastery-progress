@@ -1,0 +1,54 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786089453.586173,
+    "completed_at": 1786089455.696945,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786091556.986874,
+    "completed_at": 1786091559.340274,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786088725.924231,
+    "completed_at": 1786088728.064353,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786090116.977992,
+    "completed_at": 1786090118.862639,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786087185.369644,
+    "completed_at": 1786087187.015759,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786087477.58449,
+    "completed_at": 1786087479.506074,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
